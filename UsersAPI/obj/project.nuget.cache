@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpY9iK5Tb0V9GjEFC2swVbk+3FmT1owFhdYZ9THIOhfSsYpWsN8Adzao2j+7EUVRNZQ891JoSuPkqOONqBdxAA==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\proyectosCSharp2023\\project_minimal_api_example\\UsersAPI\\UsersAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
